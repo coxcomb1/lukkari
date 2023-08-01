@@ -1,2 +1,0 @@
-# lukkari
-Lukkarimateriaalia, läsyjä, yms.
